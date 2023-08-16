@@ -1,5 +1,3 @@
-[![](https://ci.appveyor.com/api/projects/status/github/AesaraB/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/AesaraB/chocolatey-packages)[![](http://transparent-favicon.info/favicon.ico)](#)[Update status](https://gist.github.com/AesaraB/d710b4b07ba10e9c1691da45a2ebd8e2)[![](http://transparent-favicon.info/favicon.ico)](#)[chocolatey/Aesara](https://chocolatey.org/profiles/Aesara)
-
 This repository contains [chocolatey automatic packages](https://chocolatey.org/docs/automatic-packages).  
 The repository is setup so that you can manage your packages entirely from the GitHub web interface (using AppVeyor to update and push packages) and/or using the local repository copy.
 
