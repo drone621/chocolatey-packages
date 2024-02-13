@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
 	<id>yacreader</id>
-	<version>9.13.1</version>
+	<version>9.14.1</version>
 	<packageSourceUrl>https://github.com/AesaraB/chocolatey-packages/tree/master/manual/temp/yacreader</packageSourceUrl>
 	<owners>drone621</owners>
 	<title>YACReader</title>
@@ -38,7 +38,7 @@
 * Search through your comic collection
 * Track your reading progress through comics
 * Tag your comics using Comic Vine
-	* Title, number, volumen, authors, and more.
+	* Title, number, volume, authors, and more.
 
 # Package Installation Details
 * This version includes the 64-bit version of yacreader, if you wish to continue using the 32-bit version you need to pass `--x86` when calling `choco install/update`
