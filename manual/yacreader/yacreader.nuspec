@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
 	<id>yacreader</id>
-	<version>9.15.0</version>
+	<version>9.15.0.20250201</version>
 	<packageSourceUrl>https://github.com/drone621/chocolatey-packages/tree/master/manual/yacreader</packageSourceUrl>
 	<owners>drone621</owners>
 	<title>YACReader</title>
